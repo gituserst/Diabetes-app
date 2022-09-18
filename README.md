@@ -1,7 +1,7 @@
 # Diabetes-app
 
-This is a Machine learning oriented Application for diabetes detection based on the parameters that the user enters. It predicts whether the diabetes is detected or not by learning from the parameters. The model is trained based on the PIMA Indian Diabetes dataset.
-The PIMA Indian Diabetes dataset include attributes:
+This is a Machine learning oriented Application for diabetes detection based on the parameters that the user enters. It predicts whether the diabetes is detected or not by learning from the parameters. The model is trained based on the PIMA Indian Diabetes dataset./n
+The PIMA Indian Diabetes dataset include attributes:/n
 •	Number of times pregnant
 •	Plasma glucose
 •	Diastolic blood pressure (mm Hg)
