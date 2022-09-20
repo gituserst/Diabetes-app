@@ -1,4 +1,4 @@
-# Diabetes-app
+# Diabetes app
 
 This is a Machine learning oriented Application for diabetes detection based on the parameters that the user enters. It predicts whether the diabetes is detected or not by learning from the parameters. The model is trained based on the PIMA Indian Diabetes dataset.
 
